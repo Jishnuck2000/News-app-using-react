@@ -3,6 +3,7 @@ import "./Home.css";
 import { useState, useEffect } from "react";
 import axios from "axios";
 import Nab from "../Nab";
+import { log } from "console";
 function Home() {
   const [news, setNews] = useState({
     articles: [],
@@ -34,7 +35,7 @@ function Home() {
         console.log(err);
       });
   }, []);
-
+// console.log()
   return (
     <div>
     <Nab/>
