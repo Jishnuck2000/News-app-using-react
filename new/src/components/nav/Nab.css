@@ -1,0 +1,25 @@
+.logo{
+    margin-left: 250px;
+}
+.me-1{
+    height: 40px;
+    width: 500px;
+    background-color: aliceblue;
+    color: black;
+    font-weight: 500;
+}
+.id{
+    color:white;
+    margin-left: 400px;
+}
+.bt1{
+    background-color: rgb(195, 10, 133);
+    font-weight: 500;
+    color: aliceblue;
+    margin-left: 30px;
+    height: 40px;
+    
+}
+.logo1{
+    margin-left: 280px;
+}
